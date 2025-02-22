@@ -89,4 +89,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For further inquiries or support, contact [Rishi Koli] at [1983rishikes@gmail.com].
+For further inquiries or support, contact [Rishi Koli] at [1983rishikesh@gmail.com].
