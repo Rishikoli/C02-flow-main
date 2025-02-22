@@ -29,7 +29,7 @@ A brief description of what the project does.
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Bio
+   cd C02-flow-main
    ```
 3. Install the dependencies:
    ```bash
